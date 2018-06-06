@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1524786582 source:c:\users\nacho\desktop\codeblocks\proyecto final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1528141132 source:c:\users\nacho\desktop\codeblocks\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1528074015 source:c:\users\nacho\desktop\codeblocks\proyecto final\resource.rc
+
