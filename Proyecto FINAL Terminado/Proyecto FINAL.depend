@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1524786584 source:c:\users\nacho\desktop\codeblocks\proyecto final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1529988083 source:c:\users\nacho\desktop\codeblocks\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1528074016 source:c:\users\nacho\desktop\codeblocks\proyecto final\resource.rc
+
+1524786584 source:c:\users\alumno\desktop\proyecto final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1528074016 source:c:\users\alumno\desktop\proyecto final\resource.rc
+
+1528730126 source:c:\users\alumno\desktop\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+
+1524786584 source:c:\users\nacho\desktop\proyecto final v2\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1528074016 source:c:\users\nacho\desktop\proyecto final v2\resource.rc
+
+1528331281 source:c:\users\nacho\desktop\proyecto final v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1524786584 source:c:\users\nacho\desktop\proyecto final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1528074016 source:c:\users\nacho\desktop\proyecto final\resource.rc
+
+1524786584 source:c:\users\nacho\desktop\codeblocks\proyecto final v2 perfecta\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1528074016 source:c:\users\nacho\desktop\codeblocks\proyecto final v2 perfecta\resource.rc
+
+1529196480 source:c:\users\nacho\desktop\codeblocks\proyecto final v2 perfecta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+
